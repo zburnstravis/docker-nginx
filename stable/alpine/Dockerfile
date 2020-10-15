@@ -1,4 +1,4 @@
-FROM alpine:3.11
+FROM quay.io/ibmz/alpine:3.11
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
